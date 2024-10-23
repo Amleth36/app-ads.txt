@@ -1,0 +1,2 @@
+# app-ads.txt file for Pocket Turtles
+google.com, pub-aa58579a-0f8a-43b4-a6a4-a8fe2805c098, DIRECT, f08c47fec0942fa0
